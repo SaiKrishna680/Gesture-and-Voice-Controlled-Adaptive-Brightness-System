@@ -70,7 +70,7 @@ A real-time smart system that controls **screen brightness and display accessibi
 
 ## 📸 Screenshots
 ![WhatsApp Image 2026-01-28 at 22 20 13](https://github.com/user-attachments/assets/d767d05d-0936-49b6-a91e-eebfb0b90d57)
-![Uploading WhatsApp Image 2026-01-28 at 22.20.14.jpeg…]()
+![Uploading Screenshot 2026-01-28 222420.png…]()
 ![WhatsApp Image 2026-01-28 at 22 20 15](https://github.com/user-attachments/assets/2a2e8477-c9aa-44e8-8370-31b75fc4b0fb)
 
 
